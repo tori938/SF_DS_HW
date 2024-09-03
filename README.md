@@ -7,3 +7,5 @@ homework assignments
 - classification: logistic regression, decision tree, random forest
 - feature selection: recursive feature elimination (rfe), select kbest
 - hyperparameters: grid search, randomised search, hyperopt, optuna
+- linear algebra: manual matrix / vector calculation, linear regression + regulization variation models
+- stochastic and coordinate descent
