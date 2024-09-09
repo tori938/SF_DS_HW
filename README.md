@@ -9,3 +9,4 @@ homework assignments
 - hyperparameters: grid search, randomised search, hyperopt, optuna
 - linear algebra: manual matrix / vector calculations, linear regression + regularization models
 - stochastic and coordinate descent
+- naive bayes: naive bayes classifier
