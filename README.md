@@ -1,6 +1,7 @@
 # SF_DS_HW
 homework assignments
 
+- loops: looping through a text file (novel)
 - visualization: pie charts, bar charts, histograms, scatterplots, heatmaps
 - statistical testing: parametric and non-parametric tests
 - experiments: logging experiments on comet
