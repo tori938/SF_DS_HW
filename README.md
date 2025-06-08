@@ -11,3 +11,4 @@ homework assignments
 - linear algebra: manual matrix / vector calculations, linear regression + regularization models
 - stochastic and coordinate descent
 - naive bayes: naive bayes classifier
+- a/b testing: cumulative metrics, z-test / t-test, confidence intervals
